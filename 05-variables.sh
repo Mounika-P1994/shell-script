@@ -1,8 +1,8 @@
 #!/bin/bash
 
-#DATE=$(date)
+DATE=$(date)
 
-START_TIME=$(date +%s)
+#START_TIME=$(date +%s)
 
 #sleep 10
 
