@@ -1,8 +1,8 @@
 #!/bin/bash
 
-x=$1
-y=$2
+x=100
+y=200
 
-sum=$[($x+$y)]
+sum=$((num1 + num2))
 
 echo "print $sum value"
