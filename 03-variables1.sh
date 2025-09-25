@@ -17,4 +17,4 @@ y=$4
 
 sum=$((x+y))
 
-echo "sum of two numbers is :: $sum
+echo "sum of two numbers is :: $sum"
