@@ -3,6 +3,6 @@
 x=100
 y=200
 
-sum=$((num1 + num2))
+sum=$((x+y))
 
 echo "print $sum value"
