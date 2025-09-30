@@ -1,6 +1,6 @@
 #!/bin/bash
 
-number=100,
+number=100
 
 echo "enter a number"
 
