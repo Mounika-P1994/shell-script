@@ -24,8 +24,7 @@ if [ $number -lt 200 ]; then
 else if [ $number -gt 200 ]; then
 
        echo "given number $number is greater than 200"
-
 else 
 
-        echo "given number $number is equal to 200"
+        echo "given number $number"
 fi
