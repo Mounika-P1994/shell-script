@@ -2,7 +2,7 @@
 
 number=100,
 
-read "enter a number"
+read 'enter a number'
 
 if [$number -le 200]; then
 
