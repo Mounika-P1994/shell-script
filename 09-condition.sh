@@ -15,3 +15,18 @@ else
 fi
 
 
+number=100
+
+if [ $number -lt 200]; then
+
+echo "given number $number is less than 200"
+
+else if [ $number -gt 200]; then
+
+echo "given number $number is greater than 200"
+
+else 
+
+echo "given number $number is equal to 200"
+
+fi
