@@ -1,8 +1,8 @@
 #!/bin/bash
 
-number=100
+number=$1
 
-echo "enter a number"
+
 
 if [ $number -lt 200]; then
 
