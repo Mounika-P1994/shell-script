@@ -21,7 +21,7 @@ if [ $number -lt 200 ]; then
 
      echo "given number $number is less than 200"
 
-else if [ $number -gt 200 ]; then
+elif [ $number -gt 200 ]; then
 
        echo "given number $number is greater than 200"
 else 
