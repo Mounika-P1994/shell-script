@@ -15,7 +15,7 @@ else
 fi
 
 
-number=100
+number=$*
 
 if [ $number -lt 200 ]; then
 
