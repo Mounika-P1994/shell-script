@@ -14,7 +14,7 @@ echo "Given number $number is greater than 200"
 
 else 
 
- echo "Given number $number"
+ echo "Given number"
 
  fi
 
